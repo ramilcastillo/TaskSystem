@@ -1,0 +1,193 @@
+﻿@model IEnumerable<TaskSystem.DTO.Task.TaskListResponseDetail>
+@{
+    ViewData["Title"] = "TaskIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2 style="color:orangered;">Task Tracking System</h2>
+
+<div class="table-responsive m-t-40">
+    <table id="example23" class="display nowrap table table-hover table-striped table-bordered" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                @*<th scope="col" style="color:aquamarine">#</th>*@
+                <th scope="col" style="color:black">Task&nbspId</th>
+                <th scope="col" style="color:black">Due Date</th>
+                <th scope="col" style="color:black">My Date</th>
+                <th scope="col" style="color:black">My Notes</th>
+                <th scope="col" style="color:black">Requestor</th>
+                <th scope="col" style="color:black">Owner</th>
+                <th scope="col" style="color:black">Status</th>
+                <th scope="col" style="color:black">Subject</th>
+                @*<th scope="col"></th>*@
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                foreach (var i in Model)
+                {
+                    <tr>
+                        @*<td><a href="@Url.Action("TaskDetail", "Home", new {id = i.Id, taskOwner = ViewBag.taskOwner})">Edit</a></td>*@
+                        @*<td>@i.Id</td>*@
+                        <td><a href="@Url.Action("TaskDetail", "Home", new {id = i.Id, taskOwner = ViewBag.taskOwner})">@i.Id</a></td>
+                        <td>@i.PocdateDue</td>
+                        <td>@i.PocpersonalDate</td>
+                        <td>@i.PocpersonalNote</td>
+                        <td>@i.Requestor</td>
+                        <td>@i.Pocusername</td>
+                        <td>@i.Status</td>
+                        <td>@i.Subject</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+    <button id="btnCreateTask" class="btn btn-primary" type="submit" data-toggle="modal" data-target="#myModalCreateTask">Create Task</button>
+    <a href="@Url.Action("MainAdmin", "Admin", new { taskOwner = ViewBag.AddedBy})" class="btn btn-primary" role="button" aria-pressed="true">Switch Task Owners</a>
+    <a href="@Url.Action("TaskIndex", "Home", new { taskOwner = ViewBag.AddedBy, taskSatus = "ClosedTasks"})" class="btn btn-primary" role="button" aria-pressed="true">Show Closed Tasks</a>
+
+    @*<button id="btnCreateUser" class="btn btn-primary" type="submit">Create User</button>*@
+
+    <div class="modal fade" id="myModalCreateTask" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header" style="background-color: #000000; color: #fff">
+                    <h4 class="modal-title">Create Task</h4>
+                    <button type="button" class="close" data-dismiss="modal" style="color: #fff; opacity: 1">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label class="col-md-11 control-label">Subject</label>
+                        <div class="col-md-11">
+                            <input class="form-control" id="txtCreateTaskSubject" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-md-11 control-label">Action Required</label>
+                        <div class="col-md-11">
+                            <input class="form-control" id="txtCreateTaskActionRequired" />
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    @*@Html.ActionLink("Continue", "Create", "CreateSession", new { examdetailId = 0 }, new { @class = "btn-blue" })*@
+                    <a href="javascript:void(0)" id="btnSaveTask" class="btn-blue" data-toggle="modal" data-target="#myModalCreateTask">Save</a>
+                    <a href="javascript:void(0)" class="btn-blue" data-dismiss="modal">Cancel</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="modal fade" id="myModalCreateUser" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header" style="background-color: #000000; color: #fff">
+                    <h4 class="modal-title">Create User</h4>
+                    <button type="button" class="close" data-dismiss="modal" style="color: #fff; opacity: 1">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label class="col-md-3 control-label">First Name:</label>
+                        <div class="col-md-9">
+                            <input class="form-control" id="txtCreateUserFirstName" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-md-3 control-label">Middle Name:</label>
+                        <div class="col-md-9">
+                            <input class="form-control" id="txtCreateUserMiddleName" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-md-3 control-label">Last Name:</label>
+                        <div class="col-md-9">
+                            <input class="form-control" id="txtCreateUserLastName" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-md-3 control-label">Email:</label>
+                        <div class="col-md-9">
+                            <input class="form-control" id="txtCreateUserEmail" />
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    @*@Html.ActionLink("Continue", "Create", "CreateSession", new { examdetailId = 0 }, new { @class = "btn-blue" })*@
+                    <a href="javascript:void(0)" onclick="SaveUser();" class="btn-blue" data-dismiss="modal">Save</a>
+                    <a href="javascript:void(0)" class="btn-blue" data-dismiss="modal">Cancel</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    @*<script src="~/js/snackbar.min.js"></script>*@
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    @*<script src="~/lib/jquery/dist/jquery.js"></script>*@
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $('#btnCreateTask').click(function () {
+            $("#myModalCreateTask").modal('show');
+        });
+
+        $('#btnCreateUser').click(function () {
+            $("#myModalCreateUser").modal('show');
+        });
+
+
+        $("#btnSaveTask").click(function () {
+            //var userName = '';
+            //var urlParams = new URLSearchParams(window.location.search);
+            //var entries = urlParams.entries();
+            //console.log(entries);
+            //for(pair of entries) {
+            //    userName = pair[1];
+            //};
+
+            //alert("validation Started");
+            if ($("#txtCreateTaskSubject").val().length == 0) {
+                alert("Please enter a subject for this new task!");
+                $("#txtCreateTaskSubject").focus();
+                return false;
+            }
+             //alert("First validation Success");
+
+            if ($("#txtCreateTaskActionRequired").val().length == 0) {
+                alert("Please enter a description for this new task!");
+                $("#txtCreateTaskActionRequired").focus();
+                return false;
+            }
+
+             //alert("All validations Success");
+
+            var request = {
+                "Subject": $("#txtCreateTaskSubject").val(),
+                "Description": $("#txtCreateTaskActionRequired").val()
+                //"UserName": userName
+            };
+
+            $.ajax({
+                type: "POST",
+                url: "/Home/CreateTask",
+                data: JSON.stringify(request),
+                dataType: "json",
+                contentType: 'application/json; charset=utf-8',
+                success: function (result) {
+                    console.log(result);
+                    alert("Created Successfully!");
+                    window.location = '@Url.Action("TaskIndex", "Home", new {taskOwner = ViewBag.taskOwner})';
+                },
+                failed: function (res) {
+                    alert(res);
+                }
+            });
+        });
+    });
+    </script>

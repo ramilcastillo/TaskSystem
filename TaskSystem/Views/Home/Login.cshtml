@@ -1,0 +1,54 @@
+﻿@model TaskSystem.DTO.Login.LoginRequest
+@{
+    ViewData["Title"] = "TaskIndex";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+<head>
+    <style>
+        button:hover {
+            color: black;
+        }
+
+        button {
+            color: black;
+        }
+    </style>
+
+</head>
+
+
+<!-- Page Container -->
+<div class="page-container login-page">
+
+    <!-- Page Content -->
+    <div class="page-content">
+
+        <!-- Page Inner -->
+        <div class="page-inner">
+            <div id="main-wrapper">
+                <div class="row" style ="background-color: white;">
+                    <div class="col-md-3 col-login-box-alt">
+                        <div class="panel panel-darkblue login-box" style="background-color: black !important;">
+                            <div class="panel-body">
+                                <a href="@Url.Action("Login","Home")" class="logo-name">Task System</a>
+                                <p class="m-t-md">Please login into your account</p>
+                                <form class="m-t-md" action="@Url.Action("Login","Home")" >
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" placeholder="Email" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="password" name="password" class="password form-control" placeholder="Password" required="">
+                                    </div>
+                                    <button type="submit" class="btn btn-secondary btn-block" style="">Login</button>
+                                </form>
+                                <p class="text-center m-t-xs text-sm login-footer">2018 &copy; Task System</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- Main Wrapper -->
+        </div><!-- /Page Inner -->
+    </div><!-- /Page Content -->
+</div><!-- /Page Container -->
+

@@ -1,0 +1,80 @@
+﻿@model IEnumerable<TaskSystem.DTO.Task.TaskFileResponse>
+
+<div class="row">
+    <form asp-action="DownloadFile" asp-controller="Home" method="post" enctype="multipart/form-data">
+        <div class="table-responsive m-t-40">
+            @*id="tblComments"*@
+            <table id="example" class="table display table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <td>Date/Time</td>
+                            <td>File Name</td>
+                            <td>File Size</td>
+                            <td>User Namey</td>
+                            <td>ID</td>
+                            <td>#</td>
+                            <td>#</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var i in Model)
+                        {
+                            var FileAddedDate = string.Empty;
+                            if (i.FileAddedDate != null)
+                            {
+                                FileAddedDate = Convert.ToDateTime(i.FileAddedDate).ToShortDateString();
+                            }
+
+                            <tr>
+                                <td>@FileAddedDate</td>
+                                <td><input type="hidden" id="taskId" name="taskId" asp-for="@i.FileTaskId" value="@i.FileTaskId" /><input name="fileName" type="hidden" value="@i.FileName" asp-for="@i.FileName" />@i.FileName</td>
+                                <td>@i.FileSize</td>
+                                <td>@i.FileAddedBy</td>
+                                <td>@i.Id</td>
+                                <td><a id="btnDownload" class="btn btn-success download">Download</a></td>
+                                <td><button type="button" onclick="alert('@i.Id')" class="btn btn-danger">Delete</button></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+    </form>
+</div>
+<div class="row">
+    <form asp-action="UploadFile" method="post" enctype="multipart/form-data">
+        <div class="input-group">
+            <input type="file" name="files" multiple />
+        </div>
+        <input type="hidden" name="id" value="@ViewBag.id" visible="true" />
+        <input type="hidden" name="taskOwner" value="@ViewBag.AddedBy" visible="true" />
+        <div class="input-group">
+            <input type="submit" id="btnUploadFile" style="color: #fff; margin-top: 5px;" class="btn btn-primary" value="Upload" />
+            <input type="button" onclick="alert('@ViewBag.id')" value="View File" hidden="hidden" />
+        </div>
+    </form>
+</div>
+<script src="~/js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("a.download").click(function () {
+            var fileName = $(this).closest("tr").find('td:eq(1)').text().trim();
+            var taskId = $("#taskId").val();
+
+            alert(taskId);
+            alert(fileName);
+            $.ajax({
+                type: "POST",
+                url: "/Home/DownloadFile?taskId=" + taskId + "&fileName=" + fileName,
+                contentType: 'application/json; charset=utf-8',
+                success: function (d) {
+                    if (d.success) {
+                        window.location = "/Home/DownloadActualFile?fName=" + d.path;
+                    }
+                },
+                failed: function (res) {
+                    alert(res);
+                }
+            });
+        });
+    });
+</script>

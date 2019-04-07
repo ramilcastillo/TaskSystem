@@ -1,0 +1,212 @@
+﻿@model IEnumerable<TaskSystem.DTO.Task.TaskPOCDetailRequest>  
+
+<div class="table-responsive m-t-40">
+    @*id="tblPOC"*@
+    <table id="example" class="table display table-bordered table-striped">
+        <thead>
+            <tr>
+                <th scope="col" class="col-md-1">POC Name</th>
+                <th scope="col" class="col-md-1">Date Assigned</th>
+                <th scope="col" class="col-md-1">Due Date</th>
+                <th scope="col" class="col-md-1">Date Closed</th>
+                <th scope="col" class="col-md-1">Assigned by</th>
+                <th scope="col" class="col-md-1">#</th>
+                @*<th scope="col" class="col-md-1 col-xs-1" ></th>*@
+            </tr>
+        </thead>
+        <tbody class="mainDiv">
+            @if (Model != null)
+            {
+                foreach (var s in Model)
+                {
+                    if (s.PocdateAssigned == null) { s.PocdateAssigned = string.Empty; }
+                    else { s.PocdateAssigned = Convert.ToDateTime(s.PocdateAssigned).ToShortDateString(); }
+
+                    <tr class="itemRecordPOC">
+                        <td class="itemPocUsername"> @s.Pocusername</td>
+                        <td class="itemPocAssignedDate" type="input"> @s.PocdateAssigned</td>
+                        @*<td class="itemPocDueDate">@s.PocdateDue</td>*@
+                        <td>
+                            @*<input id="itemPocDueDate" class="itemPocDueDate" value="@s.PocdateDue" />*@
+                            @Html.TextBoxFor(m => s.PocdateDue, "{0:yyyy-MM-dd}", new { @class = "itemPocDueDate", type = "date" })
+                        </td>
+                        @*<td class="itemPocClosedDate">@s.PocdateClosed</td>*@
+                        <td>
+                            @*<input id="itemPocClosedDate" class="itemPocClosedDate" value="@s.PocdateClosed" />*@
+                            @Html.TextBoxFor(m => s.PocdateClosed, "{0:yyyy-MM-dd}", new { @class = "itemPocClosedDate", type = "date" })
+                        </td>
+                        <td class="itemPocAssignedBy">@s.ParentUsername</td>
+                        <td><button type="button" class="btn btn-outline-danger">Delete</button></td>
+                        <td class="itemID" hidden="hidden">@s.Id</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+
+</div>
+    <button id="btnAddPOC" class="btn btn-primary" type="submit">Add POC</button>
+    <div class="modal fade" id="myModalAddPOC" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header" style="background-color: #000000; color: #fff">
+                    <h4 class="modal-title">Add POC</h4>
+                    <button type="button" class="close" data-dismiss="modal" style="color: #fff; opacity: 1">&times;</button>
+                </div>
+                <div class="modal-body">
+                    @*<div class="form-group">
+                            <label class="col-md-3 control-label">First Name:</label>
+                            <div class="col-md-9">
+                                <input class="form-control" id="txtCreateUserFirstName" />
+                            </div>
+                        </div>*@
+                    <div class="form-group">
+                        <label class="col-md-11 control-label">Search Last Name</label>
+                        <div class="col-md-11">
+                            <input class="form-control" id="txtSearchUser" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <table class="table table-dark">
+                            <thead>
+                                <tr>
+                                    <td>#</td>
+                                    <td>User Name</td>
+                                    <td>First Name</td>
+                                    <td>Last Name</td>
+                                </tr>
+                            </thead>
+                            <tbody id="tblBody"></tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    @*@Html.ActionLink("Continue", "Create", "CreateSession", new { examdetailId = 0 }, new { @class = "btn-blue" })*@
+                    <a id="btnSearchUser" style="color: #fff;" class="btn btn-primary">Find User</a>
+                    <a href="javascript:void(0)" data-dismiss="modal" id="btnAddTaskOwner" style="color: #fff;" class="btn btn-primary" data-toggle="modal" data-target="#myModalAddPOC">Add POC to this Task</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function () {
+       // $('.theCheckBox:checkbox:unchecked');
+        $("#theCheckBox").removeAttr("checked");
+        $("#btnAddPOC").click(function() {
+            $("#myModalAddPOC").modal('show');
+        });
+    });
+
+    $('#btnSearchUser').click(function () {
+        $("#theCheckBox").removeAttr("checked");
+        var searchName = $("#txtSearchUser").val();
+        $.ajax({
+            type: "GET",
+            url: "/api/Admin/GetAllUsers/" + searchName,
+            success: function(result) {
+
+                $("#tblBody tr").remove();
+                $.each(result,
+                    function(key, value) {
+                        console.log(key, value);
+                        $("#tblBody").append('<tr>' +
+                            '<td><input class="theCheckBox" type="checkbox"/></td>' +
+                            '<td class="check-record-column">' +
+                            value["userName"] +
+                            '</td>' +
+                            '<td>' +
+                            value["firstName"] +
+                            '</td>' +
+                            '<td>' +
+                            value["lastName"] +
+                            '</td>' +
+                            '</tr>');
+
+                    });
+
+            },
+            error: function() {
+                $("#tblBody tr").remove();
+            }
+        });
+
+        $("#btnAddTaskOwner").click(function () {
+            //alert($('.theCheckBox:checkbox:checked'));
+            var today = new Date();
+            var dd = today.getDate();
+            var mm = today.getMonth() + 1;
+            var yyyy = today.getFullYear();
+            if (dd < 10) {
+                dd = '0' + dd;
+            }
+            if (mm < 10) {
+                mm = '0' + mm;
+            }
+            var today = mm + '/' + dd + '/' + yyyy;
+            //alert(today);
+
+            $('.theCheckBox:checkbox:checked').each(function() {
+                var userName = $(this).closest("tr").find('td.check-record-column').text();
+                //var assignedDate = $("#txtPocpersonalDate").val();
+                //var dueDate = $("#txtPocdateDue").val();
+                //var closedDate = $("#txtPocdateClosed").val();
+                //alert($('table#tblPOC tr:last').index());
+
+                var assignedDate = today;
+                var dueDate = $("#itemPocDueDate").text();
+                var closedDate = $("#itemPocClosedDate").text();
+                var rowCount = $('table#tblassignedDateast').index() + 1;
+              //  alert(rowCount);
+
+                $('#tblPOC').append('<tr class="itemRecordPOC">' +
+                    '<td class="itemPocUsername">' + userName +'</td>' +
+                    '<td class="itemPocAssignedDate">' +assignedDate +'</td>' +
+                    '<td class="itemPocDueDate">' + dueDate + '</td>' +
+                    //'<td><input id="itemPocDueDate" class="itemPocDueDate"/></td>' +
+                    '<td class="itemPocClosedDate">' +closedDate +'</td>' +
+                    //'<td><input id="itemPocClosedDate" class="itemPocClosedDate"/></td>' +
+                    '<td class="itemPocAssignedBy">' + '@ViewBag.AddedBy' + '</td>' +
+                    '<td><button type="button" onClick="$(this).parent().parent().remove();" class="btn btn-outline-danger">Delete</button></td>' +
+                    '<td class="itemID" hidden="hidden">0</td>' +
+                    '</tr>');
+            });
+            var requestPOC = new Array();
+
+                $("tr.itemRecordPOC").each(function() {
+                    requestPOC.push({
+                        "PocdateAssigned": $(this).find(".itemPocAssignedDate").text(),
+                        "PocdateClosed": $(this).find(".itemPocClosedDate").text(),
+                        "PocdateDue": $(this).find(".itemPocDueDate").text(),
+                        "PoctaskId": "@ViewBag.id",
+                        "ParentUsername": "@ViewBag.AddedBy",
+                        "Pocusername": $(this).find(".itemPocUsername").text(),
+                        "Id": $(this).find(".itemID").text()
+                    });
+                });
+                console.log(requestPOC);
+                $.ajax({
+                    type: "POST",
+                    url: "/Home/CreatePOC",
+                    data: JSON.stringify(requestPOC),
+                    dataType: "json",
+                    contentType: 'application/json; charset=utf-8',
+                    success: function(result) {
+                        console.log(result);
+                        @*alert("Successfully Save!");*@
+                        window.location = '@Url.Action("TaskDetail", "Home", new { id = ViewBag.id, taskOwner = ViewBag.AddedBy })';
+                    },
+                    failed: function (res) {
+                        alert(res);
+                    }
+                });
+
+
+        });
+    });
+    </script>

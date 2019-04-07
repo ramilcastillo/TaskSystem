@@ -1,0 +1,45 @@
+﻿@model IEnumerable<TaskSystem.DTO.Admin.TaskPOCsResponse>
+@{
+    ViewData["Title"] = "MainAdmin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*<h2>Welcome @ViewBag.Name!</h2>*@
+<h2 style="color:orangered;">Delegated Authority</h2>
+
+<h6>The users listed below have granted you access to impersonate them.<br>Click on a user to impersonate them for this browser session, <br>or click on "Manage My Tasks" to work as YOU!</h6>
+<table class="table-condensed" border="1" style="background-color:#000;border-bottom-color:#000">
+    <thead>
+        <tr>
+            @*<th scope="col">Task Owner</th>*@
+            <th class="col-md-5" style="color:white;">User Name</th>
+        </tr>
+    </thead>
+    <tbody class="mainDiv">
+        @if (Model != null)
+        {
+            foreach (var i in Model)
+            {
+                <tr>
+                    @*<td><a href="@Url.Action("TaskIndex","Home", new {taskOwner = i.DelegateUser})">@i.DelegateUser</a></td>*@
+                    <td scope="col" class="col-md-1"><a href="@Url.Action("TaskIndex","Home", new {taskOwner = i.ActualUser})">@i.ActualUser</a></td>
+                </tr>
+            }
+        }
+        @*<tr>
+                <td><a href="@Url.Action("Index", "Admin", new{ userName = ViewBag.Name})" id="btnManageAdministrator" class="btn btn-primary" type="submit">Manage Delegates</a></td>
+                <td><a href="@Url.Action("TaskIndex", "Home", new{ taskOwner = ViewBag.Name})" id="btnMyTasks" class="btn btn-primary" type="submit">Manage My Tasks</a></td>
+            </tr>*@
+    </tbody>
+</table>
+@*<a href="@Url.Action("Index", "Admin", new{ userName = ViewBag.Name})" id="btnManageAdministrator" class="btn btn-primary" type="submit">Manage Delegates</a>
+    <a href="@Url.Action("TaskIndex", "Home", new{ taskOwner = ViewBag.Name})" id="btnMyTasks" class="btn btn-primary" type="submit">Manage My Tasks</a>*@
+<br />
+<tr>
+    <td><a href="@Url.Action("Index", "Admin", new{ userName = ViewBag.Name})" id="btnManageAdministrator" class="btn btn-primary" type="submit">Manage Delegates</a></td>
+    <td><a href="@Url.Action("TaskIndex", "Home", new{ taskOwner = ViewBag.Name})" id="btnMyTasks" class="btn btn-primary" type="submit">Manage My Tasks</a></td>
+</tr>
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script type="text/javascript">
+</script>

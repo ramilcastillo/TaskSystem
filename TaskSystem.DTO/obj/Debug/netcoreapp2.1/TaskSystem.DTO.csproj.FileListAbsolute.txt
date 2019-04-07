@@ -1,0 +1,66 @@
+D:\source\vijay\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.deps.json
+D:\source\vijay\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+D:\source\vijay\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+D:\source\vijay\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csprojAssemblyReference.cache
+D:\source\vijay\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csproj.CoreCompileInputs.cache
+D:\source\vijay\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.AssemblyInfoInputs.cache
+D:\source\vijay\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.AssemblyInfo.cs
+D:\source\vijay\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+D:\source\vijay\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+D:\source\vijay\CoreProject\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.deps.json
+D:\source\vijay\CoreProject\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+D:\source\vijay\CoreProject\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+D:\source\vijay\CoreProject\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csproj.CoreCompileInputs.cache
+D:\source\vijay\CoreProject\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.AssemblyInfoInputs.cache
+D:\source\vijay\CoreProject\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.AssemblyInfo.cs
+D:\source\vijay\CoreProject\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+D:\source\vijay\CoreProject\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+D:\source\vijay\CoreProject\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csprojAssemblyReference.cache
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.deps.json
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csproj.CoreCompileInputs.cache
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.AssemblyInfoInputs.cache
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.AssemblyInfo.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DAL.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DAL.pdb
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csprojAssemblyReference.cache
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csproj.CopyComplete
+D:\source\vijay\Core Project\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.deps.json
+D:\source\vijay\Core Project\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+D:\source\vijay\Core Project\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DAL.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DAL.pdb
+D:\source\vijay\Core Project\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csprojAssemblyReference.cache
+D:\source\vijay\Core Project\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csproj.CoreCompileInputs.cache
+D:\source\vijay\Core Project\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.AssemblyInfoInputs.cache
+D:\source\vijay\Core Project\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.AssemblyInfo.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csproj.CopyComplete
+D:\source\vijay\Core Project\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.deps.json
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DAL.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DAL.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csprojAssemblyReference.cache
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csproj.CoreCompileInputs.cache
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.AssemblyInfoInputs.cache
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.AssemblyInfo.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csproj.CopyComplete
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.deps.json
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DAL.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem.DTO\bin\Debug\netcoreapp2.1\TaskSystem.DAL.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csprojAssemblyReference.cache
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csproj.CoreCompileInputs.cache
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.AssemblyInfoInputs.cache
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.AssemblyInfo.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.csproj.CopyComplete
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem.DTO\obj\Debug\netcoreapp2.1\TaskSystem.DTO.pdb

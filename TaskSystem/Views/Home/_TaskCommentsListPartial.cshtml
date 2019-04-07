@@ -1,0 +1,127 @@
+﻿@model IEnumerable<TaskSystem.DTO.Task.TaskCommentDetailResponse>
+@*@model IEnumerable<TaskSystem.DTO.Task.TaskCommentsList>*@
+@{
+    ViewData["Title"] = "Task Details";
+    //Layout = null;
+}
+<div class="table-responsive m-t-40">
+    @*id="tblComments"*@
+    <table id="example" class="table display table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Comments Date</th>
+                    <th scope="col">Comments</th>
+                    <th scope="col">User Name</th>
+                    <th scope="col">ID</th>
+                    <th scope="col">#</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null)
+                {
+                    int p = 0;
+                    foreach (var i in Model)
+                    {
+
+                        <tr id="@p">
+                            <td>@i.DateUpdate.ToShortDateString()</td>
+                            <td>@i.Comment</td>
+                            <td>@i.UserName</td>
+                            <td>@i.Id</td>
+                            <td><button type="button" class="btn btn-outline-danger">Delete</button></td>
+                        </tr>
+                        @*<tr id="@p">
+                                <td>@i.CommentsDate.ToShortDateString()</td>
+                                <td>@i.Comments</td>
+                                <td>@i.AddedBy</td>
+                                <td>@i.AssignedBy</td>
+                                <td><button type="button" class="btn btn-outline-danger">Delete</button></td>
+                            </tr>*@
+                        p++;
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+        <button id="btnAddTaskComments" class="btn btn-primary">Add Task Comment</button>
+
+        <div class="modal fade" id="myModalAddComments" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header" style="background-color: #000000; color: #fff">
+                        <h4 class="modal-title">Add Comments</h4>
+                        <button type="button" class="close" data-dismiss="modal" style="color: #fff; opacity: 1">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label class="col-md-3 control-label">Comments</label>
+                            <div class="col-md-9">
+                                <input class="form-control" id="txtTaskComment" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+
+                        @*@Html.ActionLink("Continue", "Create", "CreateSession", new { examdetailId = 0 }, new { @class = "btn-blue" })*@
+                        <a href="javascript:void(0)" id="btnAddComment" class="btn-blue" data-dismiss="modal">Save</a>
+                        <a href="javascript:void(0)" class="btn-blue" data-dismiss="modal">Cancel</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script type="text/javascript">
+    $(document).ready(function () {
+
+
+        $("#btnAddTaskComments").click(function () {
+            $("#myModalAddComments").modal('show');
+        });
+        $("#btnAddComment").click(function () {
+            var comment = $("#txtTaskComment").val();
+            var d = new Date();
+            var strDate = d.getFullYear() + "/" + (d.getMonth()+1) + "/" + d.getDate();
+
+            $('#tblComments').append('<tr class="itemRecord">' +
+                '<td class="itemDate">' + strDate +'</td>' +
+                '<td class="itemComment">' + comment+'</td>' +
+                '<td>'+'@ViewBag.id'+'</td>' +
+                '<td>'+'@ViewBag.AddedBy'+'</td>' +
+                '<td><button type="button" onClick="$(this).parent().parent().remove();" class="btn btn-outline-danger">Delete</button></td>' +
+                '</tr>');
+
+            $("tr.itemRecord").each(function() {
+                var requestComment = {
+                    "Comment": $(this).find(".itemComment").text(),
+                    "DateUpdate": $(this).find(".itemDate").text(),
+                    "TaskId": "@ViewBag.id",
+                    "UserName": "@ViewBag.AddedBy"
+                };
+
+                $.ajax({
+                    type: "POST",
+                    url: "/Home/CreateComment",
+                    data: JSON.stringify(requestComment),
+                    dataType: "json",
+                    contentType: 'application/json; charset=utf-8',
+                    success: function (result) {
+                        console.log(result);
+                        window.location = '@Url.Action("TaskDetail", "Home", new { id = ViewBag.id, taskOwner = ViewBag.AddedBy })';
+                    },
+                    failed: function (res) {
+                        alert(res);
+                    }
+                });
+            });
+        });
+
+
+        function deleteRecord() {
+            alert();
+        }
+    });
+
+        </script>

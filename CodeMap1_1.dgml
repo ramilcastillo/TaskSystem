@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,620.064928818839,217.24,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Mvc, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Mvc.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@10)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,458.064928818839,236.646666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Hosting, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Hosting.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@11)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,701.064928818839,236.65,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Routing, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Routing.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Routing.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@12)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,458.064928818839,268.456666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Logging.Debug, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Debug.dll" Group="Collapsed" Label="Microsoft.Extensions.Logging.Debug.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@13)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,728.064928818839,269.193333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Swashbuckle.AspNetCore.SwaggerUI, Version=4.0.1.0, Culture=neutral, PublicKeyToken=4232c99127b3c254" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.SwaggerUI.dll" Group="Collapsed" Label="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@14)" Category="CodeSchema_Assembly" Bounds="-14.3824756285975,134.064928818839,296.19,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.EntityFrameworkCore.Relational, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.dll" Group="Collapsed" Label="Microsoft.EntityFrameworkCore.Relational.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@15)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,755.064928818839,266.39,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Server.Kestrel, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Server.Kestrel.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@16)" Category="CodeSchema_Assembly" Bounds="-14.3824756285975,701.064928818839,279.056666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Swashbuckle.AspNetCore.SwaggerGen, Version=4.0.1.0, Culture=neutral, PublicKeyToken=d84d99fb0135530a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.SwaggerGen.dll" Group="Collapsed" Label="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@17)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,242.064928818839,273.043333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Authentication, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Authentication.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@18)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,728.064928818839,302.02,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Server.IISIntegration, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.IISIntegration.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Server.IISIntegration.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@19)" Category="CodeSchema_Assembly" Bounds="-14.3824756285975,404.064928818839,305.7,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Logging.Configuration, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Configuration.dll" Group="Collapsed" Label="Microsoft.Extensions.Logging.Configuration.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@2)" Category="CodeSchema_Assembly" Bounds="-14.3824756285975,512.064928818839,297.993333333334,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Logging.EventSource, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.EventSource.dll" Group="Collapsed" Label="Microsoft.Extensions.Logging.EventSource.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@20)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,242.064928818839,259.523333333334,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Configuration, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.dll" Group="Collapsed" Label="Microsoft.Extensions.Configuration.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@21)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,296.064928818839,266.996666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Authorization, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Authorization.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@22)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,161.064928818839,368.143333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="AutoMapper.Extensions.Microsoft.DependencyInjection, Version=0.0.0.0, Culture=neutral, PublicKeyToken=e767ac9c89543656" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll" Group="Collapsed" Label="AutoMapper.Extensions.Microsoft.DependencyInjection.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@23)" Category="CodeSchema_Assembly" Bounds="-14.3824756285977,323.064928818839,285.32,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Configuration.Json, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.dll" Group="Collapsed" Label="Microsoft.Extensions.Configuration.Json.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@24)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,620.064928818839,163.036666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll" Group="Collapsed" Label="Newtonsoft.Json.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@25)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,809.064928818839,166.383333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(Fx)\Microsoft.CSharp.dll" Group="Collapsed" Label="Microsoft.CSharp.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@26)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,647.064928818839,128.24,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="RestSharp, Version=106.5.4.0, Culture=neutral, PublicKeyToken=598062e77f915f75" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\RestSharp.dll" Group="Collapsed" Label="RestSharp.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@27)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,674.064928818839,257.756666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Swashbuckle.AspNetCore.Swagger, Version=4.0.1.0, Culture=neutral, PublicKeyToken=62657d7474907593" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.Swagger.dll" Group="Collapsed" Label="Swashbuckle.AspNetCore.Swagger.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@28)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,134.064928818839,142.546666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="AutoMapper, Version=8.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\AutoMapper.dll" Group="Collapsed" Label="AutoMapper.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@29)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,269.064928818839,326.553333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Authentication.JwtBearer, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@3)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,431.064928818839,275.413333333334,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Logging.Console, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Console.dll" Group="Collapsed" Label="Microsoft.Extensions.Logging.Console.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@30)" Category="CodeSchema_Assembly" Bounds="-14.3824756285975,188.064928818839,293.633333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.EntityFrameworkCore.SqlServer, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.dll" Group="Collapsed" Label="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@31)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,377.064928818839,256.190000000001,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Diagnostics, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Diagnostics.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@32)" Category="CodeSchema_Assembly" Bounds="-14.3824756285977,269.064928818839,376.296666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Configuration.EnvironmentVariables, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll" Group="Collapsed" Label="Microsoft.Extensions.Configuration.EnvironmentVariables.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@33)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,782.064928818839,246.893333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.StaticFiles, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.StaticFiles.dll" Group="Collapsed" Label="Microsoft.AspNetCore.StaticFiles.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@34)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,512.064928818839,266.123333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Http.Features, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Http.Features.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@35)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,647.064928818839,289.793333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Mvc.ViewFeatures, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ViewFeatures.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Mvc.ViewFeatures.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@36)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,593.064928818839,241.556666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.IdentityModel.Tokens, Version=5.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll" Group="Collapsed" Label="Microsoft.IdentityModel.Tokens.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@37)" Category="CodeSchema_Assembly" Bounds="-14.3824756285975,296.064928818839,335.696666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Configuration.FileExtensions, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.FileExtensions.dll" Group="Collapsed" Label="Microsoft.Extensions.Configuration.FileExtensions.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@38)" Category="CodeSchema_Assembly" Bounds="-14.3824756285975,539.064928818839,359.733333333334,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Options.ConfigurationExtensions, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll" Group="Collapsed" Label="Microsoft.Extensions.Options.ConfigurationExtensions.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@39)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,566.064928818839,285.503333333334,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Mvc.Abstractions, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Mvc.Abstractions.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@4)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,674.064928818839,272.029999999999,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Razor.Runtime, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.Runtime.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Razor.Runtime.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@40)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,431.064928818839,304.91,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Hosting.Abstractions, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.Abstractions.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Hosting.Abstractions.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@41)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,215.064928818839,341.306666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Authentication.Abstractions, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Abstractions.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Authentication.Abstractions.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@42)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,215.064928818839,327.786666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Configuration.Abstractions, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll" Group="Collapsed" Label="Microsoft.Extensions.Configuration.Abstractions.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@43)" Category="CodeSchema_Assembly" Bounds="-14.3824756285975,377.064928818839,366.74,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.DependencyInjection.Abstractions, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll" Group="Collapsed" Label="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@44)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,485.064928818839,287.143333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Http.Abstractions, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Http.Abstractions.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@45)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,566.064928818839,228.666666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Options, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.dll" Group="Collapsed" Label="Microsoft.Extensions.Options.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@46)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,350.064928818839,218.9,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Cors, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cors.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Cors.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@47)" Category="CodeSchema_Assembly" Bounds="-14.3824756285975,350.064928818839,323.713333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Configuration.UserSecrets, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.UserSecrets.dll" Group="Collapsed" Label="Microsoft.Extensions.Configuration.UserSecrets.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@48)" Category="CodeSchema_Assembly" Bounds="363.91419103807,161.064928818839,248.406666666666,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.IdentityModel.Tokens.Jwt, Version=5.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.dll" Group="Collapsed" Label="System.IdentityModel.Tokens.Jwt.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@49)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,323.064928818839,262.280000000001,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.CookiePolicy, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.CookiePolicy.dll" Group="Collapsed" Label="Microsoft.AspNetCore.CookiePolicy.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@5)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,593.064928818839,244.75,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.Mvc.Core, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.dll" Group="Collapsed" Label="Microsoft.AspNetCore.Mvc.Core.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@50)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,539.064928818839,254.443333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore.HttpsPolicy, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HttpsPolicy.dll" Group="Collapsed" Label="Microsoft.AspNetCore.HttpsPolicy.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@6)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,836.064928818839,241.666666666668,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.EntityFrameworkCore, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll" Group="Collapsed" Label="Microsoft.EntityFrameworkCore.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@7)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,188.064928818839,296.276666666668,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.ApplicationInsights.AspNetCore, Version=2.1.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.ApplicationInsights.AspNetCore.dll" Group="Collapsed" Label="Microsoft.ApplicationInsights.AspNetCore.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@8)" Category="CodeSchema_Assembly" Bounds="-384.525808961931,404.064928818839,192.573333333334,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.AspNetCore, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.dll" Group="Collapsed" Label="Microsoft.AspNetCore.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@9)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,485.064928818839,230.256666666668,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.Extensions.Logging, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.dll" Group="Collapsed" Label="Microsoft.Extensions.Logging.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(StrongName=&quot;Microsoft.EntityFrameworkCore.SqlServer, Version=1.1.5.0, Culture=neutral, PublicKeyToken=adb9793829ddae60&quot;)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,161.064928818839,278.153333333334,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Microsoft.EntityFrameworkCore.SqlServer, Version=1.1.5.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Microsoft.EntityFrameworkCore.SqlServer" />
+    <Node Id="(StrongName=&quot;System.Collections, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,755.064928818839,158.183333333334,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Collections, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.Collections" />
+    <Node Id="(StrongName=&quot;System.ComponentModel.Annotations, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,782.064928818839,264.073333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.ComponentModel.Annotations, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.ComponentModel.Annotations" />
+    <Node Id="(StrongName=&quot;System.Diagnostics.Debug, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,809.064928818839,199.42,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Diagnostics.Debug, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.Diagnostics.Debug" />
+    <Node Id="(StrongName=&quot;System.Diagnostics.DiagnosticSource, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51&quot;)" Category="CodeSchema_Assembly" Bounds="-14.3824756285976,836.064928818839,255.93,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Diagnostics.DiagnosticSource, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.Diagnostics.DiagnosticSource" />
+    <Node Id="(StrongName=&quot;System.Drawing.Primitives, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="CodeSchema_Assembly" Bounds="363.91419103807,134.064928818839,198.066666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Drawing.Primitives, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.Drawing.Primitives" />
+    <Node Id="(StrongName=&quot;System.IO.FileSystem, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="CodeSchema_Assembly" Bounds="363.91419103807,188.064928818839,170.596666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.IO.FileSystem, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.IO.FileSystem" />
+    <Node Id="(StrongName=&quot;System.Linq, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="CodeSchema_Assembly" Bounds="363.91419103807,215.064928818839,122.616666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Linq, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.Linq" />
+    <Node Id="(StrongName=&quot;System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="CodeSchema_Assembly" Bounds="363.91419103807,242.064928818839,186.303333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.Linq.Expressions" />
+    <Node Id="(StrongName=&quot;System.Linq.Queryable, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="CodeSchema_Assembly" Bounds="363.91419103807,269.064928818839,179.653333333334,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Linq.Queryable, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.Linq.Queryable" />
+    <Node Id="(StrongName=&quot;System.Net.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="CodeSchema_Assembly" Bounds="363.91419103807,296.064928818839,173.256666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Net.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.Net.Primitives" />
+    <Node Id="(StrongName=&quot;System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="CodeSchema_Assembly" Bounds="363.91419103807,323.064928818839,144.546666666667,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.Runtime" />
+    <Node Id="(StrongName=&quot;System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="CodeSchema_Assembly" Bounds="363.91419103807,350.064928818839,202.77,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.Runtime.Extensions" />
+    <Node Id="(StrongName=&quot;System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="CodeSchema_Assembly" Bounds="363.91419103807,377.064928818839,183.463333333333,25" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="System.Threading.Tasks" />
+    <Node Id="_standardGraphExternalsGroup" Category="Externals" Bounds="-390.525808961931,108.064928818839,1008.84666666667,759" Group="Expanded" Label="Externals" LayoutSettings="List" UseManualLocation="True" />
+  </Nodes>
+  <Links>
+    <Link Source="_standardGraphExternalsGroup" Target="(@1)" Category="Contains" Bounds="183.116348266602,13.2732067108154,3762.9617767334,41.4384174346924" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@10)" Category="Contains" Bounds="4013.06811523438,17.3182525634766,457.020263671875,146.939498901367" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@11)" Category="Contains" Bounds="4006.57338045327,25.9600000000001,54.2931031354155,26.1005777083192" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@12)" Category="Contains" Bounds="4013.06811523438,17.3182525634766,448.369873046875,200.983612060547" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@13)" Category="Contains" Bounds="4013.06811523438,13.9391956329346,1458.36499023438,41.7631778717041" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@14)" Category="Contains" Bounds="3972.31030273438,25.9599990844727,97.62255859375,167.646141052246" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@15)" Category="Contains" Bounds="2496.80493164063,18.472583770752,1449.27319335938,146.083553314209" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@16)" Category="Contains" Bounds="478.348693847656,13.2995252609253,3467.72943115234,41.5198068618774" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@17)" Category="Contains" Bounds="3187.27856445313,18.472583770752,758.799560546875,148.079769134521" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@18)" Category="Contains" Bounds="4013.06811523438,13.4915256500244,2782.60668945313,42.4951610565186" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@19)" Category="Contains" Bounds="3972.474609375,25.9599990844727,215.64794921875,137.632423400879" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@2)" Category="Contains" Bounds="3431.78100585938,25.9599990844727,544.077392578125,194.171867370605" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@20)" Category="Contains" Bounds="3972.31030273438,25.9599990844727,182.627197265625,192.928901672363" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@21)" Category="Contains" Bounds="2214.30615234375,18.472583770752,1731.77197265625,91.0864524841309" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@22)" Category="Contains" Bounds="3297.89442063073,15.1095252371536,648.183619578233,41.2098335931158" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@23)" Category="Contains" Bounds="847.367065429688,13.4416522979736,3098.71105957031,42.7093639373779" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@24)" Category="Contains" Bounds="4013.06811523438,13.7335071563721,2219.25854492188,95.0855922698975" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@25)" Category="Contains" Bounds="3897.01514266352,25.9600000000001,56.1071751452364,27.5331282966987" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@26)" Category="Contains" Bounds="4013.06811523438,17.3182525634766,364.372802734375,95.306770324707" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@27)" Category="Contains" Bounds="1412.03503417969,13.5429153442383,2534.04309082031,42.5875129699707" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@28)" Category="Contains" Bounds="4013.06811523438,13.7335071563721,2407.76293945313,94.87331199646" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@29)" Category="Contains" Bounds="4013.06811523438,14.0078773498535,1626.65258789063,150.904216766357" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@3)" Category="Contains" Bounds="1912.47131347656,18.472583770752,2033.60681152344,146.125408172607" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@30)" Category="Contains" Bounds="2745.45751953125,18.472583770752,1200.62060546875,91.2028007507324" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@31)" Category="Contains" Bounds="2342.96142578125,13.8548221588135,1603.11669921875,41.8701953887939" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@32)" Category="Contains" Bounds="2035.21557617188,13.7169961929321,1910.86254882813,42.0450239181519" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@33)" Category="Contains" Bounds="1124.41064453125,13.4869832992554,2821.66748046875,42.7101831436157" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@34)" Category="Contains" Bounds="4013.06811523438,17.4913768768311,210.242431640625,84.4688739776611" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@35)" Category="Contains" Bounds="4013.06811523438,17.3182525634766,528.181884765625,92.8347549438477" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@36)" Category="Contains" Bounds="4013.06811523438,17.3182525634766,1039.57446289063,147.211761474609" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@37)" Category="Contains" Bounds="4013.06804020896,15.4921242309528,533.06703615351,39.9800154722613" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@38)" Category="Contains" Bounds="4013.06811523438,14.2388553619385,1101.10180664063,41.3831310272217" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@39)" Category="Contains" Bounds="4013.06811523438,13.7815656661987,1753.51147460938,41.963116645813" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@4)" Category="Contains" Bounds="4013.06811523438,17.3182525634766,1323.31958007813,147.26432800293" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@40)" Category="Contains" Bounds="2823.11596679688,18.472583770752,1122.96215820313,146.246486663818" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@41)" Category="Contains" Bounds="3459.24291992188,18.472583770752,486.835205078125,145.901393890381" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@42)" Category="Contains" Bounds="3100.99755859375,18.472583770752,845.08056640625,91.3871726989746" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@43)" Category="Contains" Bounds="3528.42553710938,18.472583770752,417.652587890625,91.7478904724121" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@44)" Category="Contains" Bounds="2644.07763671875,14.0507507324219,1302.00048828125,41.6216888427734" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@45)" Category="Contains" Bounds="3556.68426643246,16.3945416001981,389.3937737765,39.6955139399305" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@46)" Category="Contains" Bounds="1660.93005371094,13.603081703186,2285.14807128906,42.5092458724976" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@47)" Category="Contains" Bounds="4013.06811523438,14.0078773498535,1183.63647460938,95.7385749816895" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@48)" Category="Contains" Bounds="4013.06811523438,13.7335071563721,1959.83032226563,95.7311840057373" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@49)" Category="Contains" Bounds="3936.28596057158,25.9600000000001,38.5631436425424,105.960285030709" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@5)" Category="Contains" Bounds="4013.06811523438,13.6677770614624,2056.08471679688,42.2190866470337" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@50)" Category="Contains" Bounds="1716.85290527344,18.472583770752,2229.22521972656,91.0240821838379" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@6)" Category="Contains" Bounds="4013.06811523438,14.1788139343262,933.385009765625,93.3036842346191" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@7)" Category="Contains" Bounds="4013.06811523438,17.3182525634766,672.342529296875,148.757705688477" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@8)" Category="Contains" Bounds="4013.06811523438,13.5931663513184,2329.80590820313,42.651683807373" />
+    <Link Source="_standardGraphExternalsGroup" Target="(@9)" Category="Contains" Bounds="4013.06811523438,13.3300094604492,3156.93579101563,41.3777313232422" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;Microsoft.EntityFrameworkCore.SqlServer, Version=1.1.5.0, Culture=neutral, PublicKeyToken=adb9793829ddae60&quot;)" Category="Contains" Bounds="4013.06804020896,17.5933653721276,269.642300050849,37.1386311364503" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.Collections, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="Contains" Bounds="4013.06811523438,13.2874765396118,3575.62329101563,41.2934370040894" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.ComponentModel.Annotations, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="Contains" Bounds="3629.34350585938,25.9599990844727,346.514892578125,190.682823181152" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.Diagnostics.Debug, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="Contains" Bounds="4013.06811523438,13.4061222076416,2588.60815429688,41.1939373016357" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.Diagnostics.DiagnosticSource, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51&quot;)" Category="Contains" Bounds="2202.74829101563,18.472583770752,1743.32983398438,146.031749725342" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.Drawing.Primitives, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="Contains" Bounds="2887.7060546875,14.2877187728882,1058.3720703125,41.3211679458618" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.IO.FileSystem, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="Contains" Bounds="3744.71753810371,18.8868708674764,201.360502105253,35.5100905730987" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.Linq, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="Contains" Bounds="4013.06811523438,14.5158014297485,898.771240234375,41.2101736068726" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="Contains" Bounds="3714.49926757813,18.472583770752,231.578857421875,90.6853828430176" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.Linq.Queryable, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="Contains" Bounds="4013.06811523438,14.0078773498535,1502.11157226563,94.9675102233887" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.Net.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="Contains" Bounds="1938.17272949219,18.472583770752,2007.90539550781,90.4575996398926" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="Contains" Bounds="4013.06811523438,13.3032455444336,3398.03051757813,41.2347030639648" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="Contains" Bounds="4013.06811523438,13.7335071563721,1677.50659179688,99.0927639007568" />
+    <Link Source="_standardGraphExternalsGroup" Target="(StrongName=&quot;System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&quot;)" Category="Contains" Bounds="2446.3671875,18.472583770752,1499.7109375,90.5418281555176" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Assembly" Label="Assembly" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" NavigationActionLabel="Assemblies" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="Externals" Label="Externals" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Externals" />
+    <Category Id="File" Label="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="Files" />
+    <Category Id="FileSystem.Category.FileOfType.dll" BasedOn="CodeSchema_Assembly" CanBeDataDriven="True" IsProviderRoot="False" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsExternal" Label="Is External" Description="Flag indicating whether this node is considered external" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_StrongName" Label="StrongName" Description="StrongName" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedChildNodesState" Label="Delayed Child Nodes State" Description="Unspecified if the delayed child nodes state is not specified. NotFetched if the group contains child nodes that are not fetched into the graph yet. Fetched if the group has all its delayed child nodes already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="DelayedCrossGroupLinksState" Label="Delayed Cross-Group Links State" Description="Unspecified if the delayed cross-group links state is not specified. NotFetched if delayed cross-group links on this node are not fetched into the graph yet. Fetched if all delayed cross-group links have already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="LayoutSettings" DataType="Microsoft.VisualStudio.Diagrams.View.GroupLayoutStyle" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="StrongName" Label="Strong Name" ValueType="System.String" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Mvc.dll" />
+    <Alias n="2" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Logging.EventSource.dll" />
+    <Alias n="3" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Logging.Console.dll" />
+    <Alias n="4" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Razor.Runtime.dll" />
+    <Alias n="5" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Mvc.Core.dll" />
+    <Alias n="6" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.EntityFrameworkCore.dll" />
+    <Alias n="7" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.ApplicationInsights.AspNetCore.dll" />
+    <Alias n="8" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.dll" />
+    <Alias n="9" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Logging.dll" />
+    <Alias n="10" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Hosting.dll" />
+    <Alias n="11" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Routing.dll" />
+    <Alias n="12" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Logging.Debug.dll" />
+    <Alias n="13" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Swashbuckle.AspNetCore.SwaggerUI.dll" />
+    <Alias n="14" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.EntityFrameworkCore.Relational.dll" />
+    <Alias n="15" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Server.Kestrel.dll" />
+    <Alias n="16" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Swashbuckle.AspNetCore.SwaggerGen.dll" />
+    <Alias n="17" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Authentication.dll" />
+    <Alias n="18" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Server.IISIntegration.dll" />
+    <Alias n="19" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Logging.Configuration.dll" />
+    <Alias n="20" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Configuration.dll" />
+    <Alias n="21" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Authorization.dll" />
+    <Alias n="22" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll" />
+    <Alias n="23" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Configuration.Json.dll" />
+    <Alias n="24" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Newtonsoft.Json.dll" />
+    <Alias n="25" Uri="Assembly=$(FxUri)/Microsoft.CSharp.dll" />
+    <Alias n="26" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/RestSharp.dll" />
+    <Alias n="27" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Swashbuckle.AspNetCore.Swagger.dll" />
+    <Alias n="28" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/AutoMapper.dll" />
+    <Alias n="29" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll" />
+    <Alias n="30" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.EntityFrameworkCore.SqlServer.dll" />
+    <Alias n="31" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Diagnostics.dll" />
+    <Alias n="32" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll" />
+    <Alias n="33" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.StaticFiles.dll" />
+    <Alias n="34" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Http.Features.dll" />
+    <Alias n="35" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Mvc.ViewFeatures.dll" />
+    <Alias n="36" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.IdentityModel.Tokens.dll" />
+    <Alias n="37" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Configuration.FileExtensions.dll" />
+    <Alias n="38" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll" />
+    <Alias n="39" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Mvc.Abstractions.dll" />
+    <Alias n="40" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Hosting.Abstractions.dll" />
+    <Alias n="41" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Authentication.Abstractions.dll" />
+    <Alias n="42" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Configuration.Abstractions.dll" />
+    <Alias n="43" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+    <Alias n="44" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Http.Abstractions.dll" />
+    <Alias n="45" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Options.dll" />
+    <Alias n="46" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.Cors.dll" />
+    <Alias n="47" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Configuration.UserSecrets.dll" />
+    <Alias n="48" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/System.IdentityModel.Tokens.Jwt.dll" />
+    <Alias n="49" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.CookiePolicy.dll" />
+    <Alias n="50" Uri="Assembly=$(VsSolutionUri)/TaskSystem/bin/Debug/netcoreapp2.1/Microsoft.AspNetCore.HttpsPolicy.dll" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Test Project" ValueLabel="Test Project">
+      <Condition Expression="HasCategory('CodeMap_TestProject')" />
+      <Setter Property="Icon" Value="CodeMap_TestProject" />
+      <Setter Property="Background" Value="#FF307A69" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Web Project" ValueLabel="Web Project">
+      <Condition Expression="HasCategory('CodeMap_WebProject')" />
+      <Setter Property="Icon" Value="CodeMap_WebProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Windows Store Project" ValueLabel="Windows Store Project">
+      <Condition Expression="HasCategory('CodeMap_WindowsStoreProject')" />
+      <Setter Property="Icon" Value="CodeMap_WindowsStoreProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Phone Project" ValueLabel="Phone Project">
+      <Condition Expression="HasCategory('CodeMap_PhoneProject')" />
+      <Setter Property="Icon" Value="CodeMap_PhoneProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Portable Library" ValueLabel="Portable Library">
+      <Condition Expression="HasCategory('CodeMap_PortableLibraryProject')" />
+      <Setter Property="Icon" Value="CodeMap_PortableLibraryProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="WPF Project" ValueLabel="WPF Project">
+      <Condition Expression="HasCategory('CodeMap_WpfProject')" />
+      <Setter Property="Icon" Value="CodeMap_WpfProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="VSIX Project" ValueLabel="VSIX Project">
+      <Condition Expression="HasCategory('CodeMap_VsixProject')" />
+      <Setter Property="Icon" Value="CodeMap_VsixProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Modeling Project" ValueLabel="Modeling Project">
+      <Condition Expression="HasCategory('CodeMap_ModelingProject')" />
+      <Setter Property="Icon" Value="CodeMap_ModelingProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF0E70C0" />
+      <Setter Property="Stroke" Value="#FF0E70C0" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="Has category">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True">
+      <Condition Expression="HasCategory('InheritsFrom')" />
+      <Setter Property="Stroke" Value="#FF00A600" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True">
+      <Condition Expression="HasCategory('Implements')" />
+      <Setter Property="Stroke" Value="#8000A600" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Calls" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Calls')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Function Pointer" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FunctionPointer')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Write" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldWrite')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="DrawArrow" Value="true" />
+      <Setter Property="IsHidden" Value="false" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Return" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_ReturnTypeLink')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="References" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('References')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Uses Attribute" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_AttributeUse')" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Solution Folder" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeMap_SolutionFolder')" />
+      <Setter Property="Background" Value="#FFDEBA83" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Project Reference" ValueLabel="Project Reference">
+      <Condition Expression="HasCategory('CodeMap_ProjectReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="External Reference" ValueLabel="External Reference">
+      <Condition Expression="HasCategory('CodeMap_ExternalReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="Fx" Value="C:\Windows\Microsoft.NET\Framework\v4.0.30319" />
+    <Path Id="FxUri" Value="file:///C:/Windows/Microsoft.NET/Framework/v4.0.30319" />
+    <Path Id="VsSolution" Value="C:\Users\vreddy\Source\Repos\TaskSystem-AZDVAP-UptoDate4" />
+    <Path Id="VsSolutionUri" Value="file:///C:/Users/vreddy/Source/Repos/TaskSystem-AZDVAP-UptoDate4" />
+  </Paths>
+</DirectedGraph>

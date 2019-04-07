@@ -1,0 +1,242 @@
+﻿@model IEnumerable<TaskSystem.DTO.Admin.AdministratorListResponse>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+    <style>
+        .btn {
+            color: #fff;
+        }
+    </style>
+</head>
+<h2>Delegated Authority</h2>
+@*Modal Confirmation Delete*@
+<div class="modal fade" id="myModalDelete" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #000000; color: #fff">
+                <h4 class="modal-title">Delete Confirmation</h4>
+                <button type="button" class="close" data-dismiss="modal" style="color: #fff; opacity: 1">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label class="col-md-11 control-label">Are you sure you want to remove record?</label>
+                </div>
+            </div>
+            <div class="modal-footer">
+
+                @*@Html.ActionLink("Continue", "Create", "CreateSession", new { examdetailId = 0 }, new { @class = "btn-blue" })*@
+                <a href="javascript:void(0)" id="btnDeleteAdmin" class="btn-blue" data-dismiss="modal">Yes</a>
+                <a href="javascript:void(0)" class="btn-blue" data-dismiss="modal">No</a>
+            </div>
+        </div>
+
+    </div>
+</div>
+@*Modal Add Record*@
+<div class="modal fade" id="myModalAdd" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #000000; color: #fff">
+                <h4 class="modal-title">Add Delegate User</h4>
+                <button type="button" class="close" data-dismiss="modal" style="color: #fff; opacity: 1">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label class="col-md-11 control-label">Search Last Name</label>
+                    <div class="col-md-11">
+                        <input class="form-control" id="txtSearchUser" />
+                    </div>
+                </div>
+                <div class="row">
+                    <table class="table table-dark">
+                        <thead>
+                            <tr>
+                                <td>#</td>
+                                <td>User Name</td>
+                                <td>First Name</td>
+                                <td>Last Name</td>
+                            </tr>
+                        </thead>
+                        <tbody id="tblBody"></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <a id="btnSearchUser" style="color: #fff;" class="btn btn-primary">Find Task Owner</a>
+                <a href="javascript:void(0)" data-dismiss="modal" id="btnAddTaskOwner" style="color: #fff;" class="btn btn-primary">Add this Task Owner as Task Delegate</a>
+            </div>
+        </div>
+
+    </div>
+</div>
+@*<table class="table table-dark">*@
+<table style="background-color:#000;border-bottom-color:#000" scope="col" class="col-md-6" border="0" >
+    <thead>
+        <tr>
+            <th scope="col" style="color:white;">User Name</th>
+            <th scope="col">#</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            foreach (var i in Model)
+            {
+                <tr>
+                    <td class="record-column" data-val="@i.DelegateUser" style="color:white;">@i.ActualUser</td>
+                    <td>
+                        <button type="button" class="btn btn-outline-danger user-record">Delete</button>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<a id="btnCreateTask" class="btn btn-primary" style="color: #fff;" type="submit">Add new Task Delegate</a>
+<a href="@Url.Action("MainAdmin", "Admin", new{ userName = ViewBag.Name})" id="btnManageAdministrator" class="btn btn-primary" type="submit">Manage Task Owners</a>
+<a href="@Url.Action("TaskIndex", "Home", new{ taskOwner = ViewBag.Name})" id="btnMyTasks" class="btn btn-primary" type="submit">Manage My Tasks</a>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var actualUser = "";
+        var delegateUser = "";
+
+        //$('#txtSearchUser').on('input',function(e) {
+        //    var searchName = $("#txtSearchUser").val();
+        //    $.ajax({
+        //        type: "GET",
+        //        url: "/api/Admin/GetAllUsers/" + searchName,
+        //        success: function (result) {
+        //            //for(var item in result) {
+        //            //    $("#tblBody").append('<tr>' +
+        //            //        '<td><input type="button" id="btnSelectName" value="Select" class="btn btn-success"/></td>' +
+        //            //        '<td>'+result[item.firstName]+'</td>'+
+        //            //        '</tr>');
+        //            //}
+
+        //            $("#tblBody tr").remove();
+        //            $.each(result, function(key, value) {
+        //                console.log(key, value);
+        //                    $("#tblBody").append('<tr>' +
+        //                        '<td><button type="button" class="btn btn-success search-record">Select</button></td>' +
+        //                        '<td class="search-record-column">' + value["userName"] + '</td>' +
+        //                        '<td>' + value["firstName"] + '</td>' +
+        //                        '<td>' + value["lastName"] + '</td>' +
+        //                    '</tr>');
+
+        //            });
+
+        //        },
+        //        error: function () {
+        //            $("#tblBody tr").remove();
+        //        }
+        //    });
+
+
+        //});
+
+        $('#btnSearchUser').click(function () {
+            var searchName = $("#txtSearchUser").val();
+            $.ajax({
+                type: "GET",
+                url: "/api/Admin/GetAllUsers/" + searchName,
+                success: function (result) {
+
+                    $("#tblBody tr").remove();
+                    $.each(result, function(key, value) {
+                        console.log(key, value);
+                        $("#tblBody").append('<tr>' +
+                            '<td><input class="theCheckBox" type="checkbox"/></td>' +
+                            '<td class="check-record-column">' + value["userName"] + '</td>' +
+                            '<td>' + value["firstName"] + '</td>' +
+                            '<td>' + value["lastName"] + '</td>' +
+                            '</tr>');
+
+                    });
+
+                },
+                error: function () {
+                    $("#tblBody tr").remove();
+                }
+            });
+
+
+        });
+
+
+
+        $("#btnCreateTask").click(function() {
+            $("#myModalAdd").modal("show");
+        });
+
+        $(".user-record").click(function () {
+            delegateUser = $(this).closest("tr").find('td.record-column').data('val');
+            actualUser = $(this).closest("tr").find('td.record-column').text();
+            $("#myModalDelete").modal("show");
+        });
+
+        $("#btnDeleteAdmin").click(function() {
+            var request = {
+                "actualUser": actualUser,
+                "delegateUser": delegateUser
+            };
+
+            $.ajax({
+                type: "DELETE",
+                url: "/Admin/DeleteAdminUser",
+                data: JSON.stringify(request),
+                dataType: "json",
+                contentType: 'application/json; charset=utf-8',
+                success: function (result) {
+                    console.log(result);
+                    alert("Deleted Successfully!");
+                    window.location = '@Url.Action("Index", "Admin")';
+                },
+                failed: function (res) {
+                    alert(res);
+                }
+            });
+        });
+    });
+    $(document).on("click", ".search-record", function () {
+        var userName = $(this).closest("tr").find('td.search-record-column').text();
+        alert(userName);
+        alert("test");
+        console.log("test");
+    });
+
+    //$("#btnAddTaskOwner").on("click", ".check-record-column", function () {
+    //    alert("sample!");
+    //    $('.theCheckBox:checkbox:checked').each(function () {
+    //        var sThisVal = $(this).closest("tr").find('td.check-record-column').text(); //(this.checked ? $(this).val() : "");
+    //        alert(sThisVal);
+    //    });
+    //});
+
+    $("#btnAddTaskOwner").click(function() {
+        $('.theCheckBox:checkbox:checked').each(function () {
+            var userName = $(this).closest("tr").find('td.check-record-column').text(); //(this.checked ? $(this).val() : "");
+            $.ajax({
+                type: "POST",
+                url: "/Admin/CreateAdminUser",
+                data: JSON.stringify(userName),
+                dataType: "json",
+                contentType: 'application/json; charset=utf-8',
+                success: function (result) {
+                    console.log(result);
+                    @*window.location = '@Url.Action("Index", "Admin")';*@
+                    window.location = '@Url.Action("MainAdmin", "Admin")';
+                },
+                failed: function (res) {
+                    alert(res);
+                }
+            });
+        });
+    });
+
+
+</script>

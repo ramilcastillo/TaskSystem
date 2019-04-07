@@ -1,0 +1,1082 @@
+D:\source\vijay\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.deps.json
+D:\source\vijay\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.runtimeconfig.json
+D:\source\vijay\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.runtimeconfig.dev.json
+D:\source\vijay\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.dll
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csprojAssemblyReference.cache
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csproj.CoreCompileInputs.cache
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorAssemblyInfo.cache
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorAssemblyInfo.cs
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.AssemblyInfoInputs.cache
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.AssemblyInfo.cs
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.TagHelpers.input.cache
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.TagHelpers.output.cache
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorCoreGenerate.cache
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorTargetAssemblyInfo.cache
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorTargetAssemblyInfo.cs
+D:\source\vijay\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.pdb
+D:\source\vijay\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.Views.dll
+D:\source\vijay\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.Views.pdb
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.Views.pdb
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.dll
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.pdb
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csproj.CopyComplete
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\TaskIndex.g.cshtml.cs
+D:\source\vijay\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DAL.dll
+D:\source\vijay\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DAL.pdb
+D:\source\vijay\TaskSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csprojAssemblyReference.cache
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csproj.CoreCompileInputs.cache
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorAssemblyInfo.cache
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorAssemblyInfo.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.AssemblyInfoInputs.cache
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.AssemblyInfo.cs
+D:\source\vijay\CoreProject\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.deps.json
+D:\source\vijay\CoreProject\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.runtimeconfig.json
+D:\source\vijay\CoreProject\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.runtimeconfig.dev.json
+D:\source\vijay\CoreProject\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.dll
+D:\source\vijay\CoreProject\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.pdb
+D:\source\vijay\CoreProject\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.Views.dll
+D:\source\vijay\CoreProject\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.Views.pdb
+D:\source\vijay\CoreProject\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DAL.dll
+D:\source\vijay\CoreProject\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DAL.pdb
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.TagHelpers.input.cache
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.TagHelpers.output.cache
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorCoreGenerate.cache
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\TaskIndex.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorTargetAssemblyInfo.cache
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorTargetAssemblyInfo.cs
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.Views.pdb
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csproj.CopyComplete
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.dll
+D:\source\vijay\CoreProject\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.pdb
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.deps.json
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.runtimeconfig.json
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.runtimeconfig.dev.json
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.pdb
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.Views.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.Views.pdb
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\AutoMapper.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.ApplicationInsights.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AI.DependencyCollector.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Net.Http.Formatting.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Antiforgery.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Core.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Twitter.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.WsFederation.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.CookiePolicy.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cors.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.DataProtection.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HostFiltering.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Connections.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Extensions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HttpOverrides.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.UI.Views.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Localization.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Localization.Routing.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.NodeServices.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Owin.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.ResponseCaching.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.ResponseCompression.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Rewrite.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Routing.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Session.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Common.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Core.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.StaticFiles.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.WebSockets.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.WebUtilities.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Razor.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.Memory.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.SqlServer.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Ini.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Xml.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyModel.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Composite.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Http.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Localization.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Localization.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Console.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Debug.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.TraceSource.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.ObjectPool.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Primitives.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.WebEncoders.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Logging.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.WsFederation.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Xml.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Net.Http.Headers.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\dotnet-aspnet-codegenerator-design.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Newtonsoft.Json.Bson.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\NuGet.Frameworks.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Remotion.Linq.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\RestSharp.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.AttributedModel.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.Convention.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.Hosting.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.Runtime.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.TypedParts.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Interactive.Async.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.IO.Pipelines.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Security.Cryptography.Xml.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Security.Permissions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Text.Encoding.CodePages.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Text.Encodings.Web.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Threading.Channels.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DAL.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DAL.pdb
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csprojAssemblyReference.cache
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csproj.CoreCompileInputs.cache
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorAssemblyInfo.cache
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorAssemblyInfo.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.AssemblyInfoInputs.cache
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.AssemblyInfo.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.TagHelpers.input.cache
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.TagHelpers.output.cache
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorCoreGenerate.cache
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\TaskIndex.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorTargetAssemblyInfo.cache
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorTargetAssemblyInfo.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.Views.pdb
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csproj.CopyComplete
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.pdb
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Design.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Windows.Forms.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Data.OracleClient.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Accessibility.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Drawing.Design.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Web.RegularExpressions.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Runtime.Serialization.Formatters.Soap.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Deployment.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.EnterpriseServices.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.DirectoryServices.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Runtime.Remoting.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Design.xml
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Windows.Forms.xml
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Data.OracleClient.xml
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Accessibility.xml
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Drawing.Design.xml
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Web.RegularExpressions.xml
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Runtime.Serialization.Formatters.Soap.xml
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Deployment.xml
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.EnterpriseServices.xml
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.DirectoryServices.xml
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Runtime.Remoting.xml
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.EnterpriseServices.Wrapper.dll
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\TaskDetail.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_TaskPOCListPartial.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_TaskCommentsListPartial.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\MainAdmin.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.deps.json
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.runtimeconfig.json
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.runtimeconfig.dev.json
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.pdb
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.Views.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.Views.pdb
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\AutoMapper.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.ApplicationInsights.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AI.DependencyCollector.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Net.Http.Formatting.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Antiforgery.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Core.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Twitter.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.WsFederation.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.CookiePolicy.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cors.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.DataProtection.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HostFiltering.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Connections.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Extensions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HttpOverrides.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.UI.Views.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Localization.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Localization.Routing.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.NodeServices.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Owin.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.ResponseCaching.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.ResponseCompression.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Rewrite.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Routing.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Session.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Common.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Core.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.StaticFiles.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.WebSockets.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.WebUtilities.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Razor.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.Memory.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.SqlServer.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Ini.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Xml.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyModel.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Composite.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Http.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Localization.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Localization.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Console.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Debug.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.TraceSource.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.ObjectPool.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Primitives.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.WebEncoders.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Logging.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.WsFederation.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Xml.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Net.Http.Headers.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\dotnet-aspnet-codegenerator-design.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Newtonsoft.Json.Bson.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\NuGet.Frameworks.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Remotion.Linq.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\RestSharp.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.AttributedModel.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.Convention.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.Hosting.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.Runtime.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.TypedParts.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Interactive.Async.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.IO.Pipelines.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Security.Cryptography.Xml.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Security.Permissions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Text.Encoding.CodePages.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Text.Encodings.Web.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Threading.Channels.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Design.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DAL.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Windows.Forms.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Data.OracleClient.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Accessibility.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Drawing.Design.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Web.RegularExpressions.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Runtime.Serialization.Formatters.Soap.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Deployment.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.EnterpriseServices.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.DirectoryServices.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Runtime.Remoting.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DAL.pdb
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Design.xml
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Windows.Forms.xml
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Data.OracleClient.xml
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Accessibility.xml
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Drawing.Design.xml
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Web.RegularExpressions.xml
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Runtime.Serialization.Formatters.Soap.xml
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Deployment.xml
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.EnterpriseServices.xml
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.DirectoryServices.xml
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Runtime.Remoting.xml
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.EnterpriseServices.Wrapper.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csprojAssemblyReference.cache
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csproj.CoreCompileInputs.cache
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorAssemblyInfo.cache
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorAssemblyInfo.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.AssemblyInfoInputs.cache
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.AssemblyInfo.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.TagHelpers.input.cache
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.TagHelpers.output.cache
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorCoreGenerate.cache
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\MainAdmin.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\TaskDetail.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\TaskIndex.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_TaskCommentsListPartial.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_TaskPOCListPartial.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorTargetAssemblyInfo.cache
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorTargetAssemblyInfo.cs
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.Views.pdb
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csproj.CopyComplete
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.dll
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.pdb
+D:\source\vijay\CoreProject\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_TaskFilesPartial.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.deps.json
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.runtimeconfig.json
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.runtimeconfig.dev.json
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.Views.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.Views.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\AutoMapper.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.ApplicationInsights.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Net.Http.Formatting.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Twitter.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.WsFederation.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cors.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.UI.Views.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Localization.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Owin.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Routing.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Session.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.SqlServer.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Http.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Localization.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.WebEncoders.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.WsFederation.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Xml.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Net.Http.Headers.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Newtonsoft.Json.Bson.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\NuGet.Frameworks.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Remotion.Linq.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\RestSharp.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.AttributedModel.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.Convention.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.Hosting.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.Runtime.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.TypedParts.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Interactive.Async.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.IO.Pipelines.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Security.Cryptography.Xml.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Security.Permissions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Text.Encoding.CodePages.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Text.Encodings.Web.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\System.Threading.Channels.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DAL.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DAL.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csprojAssemblyReference.cache
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csproj.CoreCompileInputs.cache
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorAssemblyInfo.cache
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorAssemblyInfo.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.AssemblyInfoInputs.cache
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.AssemblyInfo.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.TagHelpers.input.cache
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.TagHelpers.output.cache
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorCoreGenerate.cache
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\MainAdmin.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\TaskDetail.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\TaskIndex.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_TaskCommentsListPartial.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_TaskFilesPartial.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_TaskPOCListPartial.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorTargetAssemblyInfo.cache
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorTargetAssemblyInfo.cs
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.Views.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csproj.CopyComplete
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.dll
+C:\Users\vreddy\Source\Repos\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csprojAssemblyReference.cache
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csproj.CoreCompileInputs.cache
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorAssemblyInfo.cache
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorAssemblyInfo.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.AssemblyInfoInputs.cache
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.AssemblyInfo.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.deps.json
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.runtimeconfig.json
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.runtimeconfig.dev.json
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.Views.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.Views.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\AutoMapper.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.ApplicationInsights.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Net.Http.Formatting.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Twitter.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.WsFederation.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cors.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.UI.Views.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Localization.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Owin.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Routing.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Session.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.SqlServer.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Http.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Localization.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Extensions.WebEncoders.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.WsFederation.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Xml.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.Net.Http.Headers.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Newtonsoft.Json.Bson.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\NuGet.Frameworks.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Remotion.Linq.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\RestSharp.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.AttributedModel.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.Convention.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.Hosting.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.Runtime.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Composition.TypedParts.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Interactive.Async.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.IO.Pipelines.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Security.Cryptography.Xml.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Security.Permissions.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Text.Encoding.CodePages.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Text.Encodings.Web.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\System.Threading.Channels.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DAL.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DTO.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DAL.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\bin\Debug\netcoreapp2.1\TaskSystem.DTO.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.TagHelpers.input.cache
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.TagHelpers.output.cache
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorCoreGenerate.cache
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\MainAdmin.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\TaskDetail.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\TaskIndex.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_TaskCommentsListPartial.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_TaskFilesPartial.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_TaskPOCListPartial.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorTargetAssemblyInfo.cache
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.RazorTargetAssemblyInfo.cs
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.Views.pdb
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.csproj.CopyComplete
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.dll
+C:\Users\vreddy\Source\Repos\TaskSystem_V1.0\TaskSystem\obj\Debug\netcoreapp2.1\TaskSystem.pdb
+D:\source\vijay\Core Project\TaskSystem\TaskSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_TaskFilesPartial.g.cshtml.cs

@@ -1,0 +1,271 @@
+﻿@using TaskSystem.DTO.Task
+@model TaskSystem.DTO.Task.TaskDetailResponse
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.taskOwner = "vreddy";
+    ViewBag.id = Model.ID;
+    var Date = "01/01/0001";
+    if (Model.PocdateDue == Convert.ToDateTime(DateTime.MinValue))
+    {
+        Model.PocdateDue = null;
+    }
+    if (Model.PocdateClosed == Convert.ToDateTime(Date))
+    {
+        Model.PocdateClosed = null;
+    }
+    if (Model.PocpersonalDate == Convert.ToDateTime(Date))
+    {
+        Model.PocpersonalDate = null;
+    }
+}
+
+<head>
+    @*<link href="~/css/nav_burger.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+        <style>
+            .mainDiv {
+                padding: 10px 10px 10px 10px;
+                margin: 10px 40px 10px 40px;
+            }
+
+            .row {
+                background-color: rgba(86, 61, 124, .15);
+                padding: 10px 10px 10px 10px;
+            }
+
+                .row .divControls {
+                    margin-right: 10px;
+                }
+
+            .divForm {
+                width: 80%;
+            }
+        </style>*@
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>jQuery UI Datepicker - Default functionality</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script type="text/javascript">
+    $(function () {
+         $("#datepicker").datepicker();
+    });
+    </script>
+</head>
+<!-- ============================================================== -->
+<!-- Container fluid  -->
+<!-- ============================================================== -->
+<div class="container-fluid" style="background-color:slategrey">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-body">
+                <form class="form">
+                    <h4 class="card-title">Task Detail</h4>
+                    <h6 class="card-subtitle">Details of the task</h6>
+                    <div class="form-group m-t-40 row">
+                        <label for="example-text-input" class="col-2 col-form-label">User Name</label>
+                        <div class="col-3">
+                            @*<input class="form-control" type="text" value="Artisanal kale" id="example-text-input">*@
+                            <input id="txtPocsusername" class="form-control" asp-for="Pocsusername" data-val="true" value="@Model.Pocsusername" />
+                        </div>
+                        <label for="example-datetime-local-input" class="col-2 col-form-label">Due Date</label>
+                        <div class="col-3">
+                            @Html.TextBoxFor(m => m.PocdateDue, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date", id = "datepicker", placeholder = "MM/DD/YYY" })@*txtPocdateDue*@
+                        </div>
+                    </div>
+                    <div class="form-group m-t-40 row">
+                        <label for="example-text-input" class="col-2 col-form-label">Open Date</label>
+                        <div class="col-3">
+                            @*<input class="form-control" type="text" value="Artisanal kale" id="example-text-input">*@
+                            @Html.TextBoxFor(m => m.PocdateAssigned, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date", id = "txtPocdateAssigned", placeholder = "MM/DD/YYY" })
+                        </div>
+                        <label for="example-datetime-local-input" class="col-2 col-form-label">Close Date</label>
+                        <div class="col-3">
+                            @Html.TextBoxFor(m => m.PocdateClosed, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date", id = "txtPocdateClosed", placeholder = "MM/DD/YYY" })
+                        </div>
+                    </div>
+                    <div class="form-group m-t-40 row">
+                        <label for="example-text-input" class="col-2 col-form-label">Task Status</label>
+                        <div class="col-3">
+                            @*<input class="form-control" type="text" value="Artisanal kale" id="example-text-input">*@
+                            <input id="txtStatus" class="form-control" asp-for="Status" data-val="true" value="@Model.Status" />
+                        </div>
+                        <label for="example-datetime-local-input" class="col-2 col-form-label">Task Type</label>
+                        <div class="col-3">
+                            <input id="txtType" class="form-control" asp-for="Type" data-val="true" value="@Model.Type" />
+                        </div>
+                    </div>
+                    <div class="form-group m-t-40 row">
+                        <label for="example-text-input" class="col-2 col-form-label">Requested By</label>
+                        <div class="col-3">
+                            <input id="txtRequestor" class="form-control" asp-for="Requestor" data-val="true" value="@Model.Requestor" />
+                        </div>
+                        <label for="example-datetime-local-input" class="col-2 col-form-label">File Number</label>
+                        <div class="col-3">
+                            <input id="txtFileNumber" class="form-control" asp-for="FileNumber" data-val="true" value="@Model.FileNumber" />
+                        </div>
+                    </div>
+                    <div class="form-group m-t-40 row">
+                        <label for="example-text-input" class="col-2 col-form-label">Subject</label>
+                        <div class="col-6">
+
+                            <input id="txtSubject" class="form-control" asp-for="Subject" data-val="true" value="@Model.Subject" />
+                        </div>
+                    </div>
+                    <div class="form-group m-t-40 row">
+                        <label for="example-text-input" class="col-2 col-form-label">Action Required</label>
+                        <div class="col-6">
+                            <input id="txtDescription" class="form-control" asp-for="Description" data-val="true" value="@Model.Description" />
+                        </div>
+                    </div>
+                    <div class="form-group m-t-40 row">
+                        <label for="example-text-input" class="col-2 col-form-label">Task Owner Date</label>
+                        <div class="col-3">
+                            @Html.TextBoxFor(m => m.PocpersonalDate, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date", id = "txtPocpersonalDate", placeholder = "MM/DD/YYY" })
+                        </div>
+                        <label for="example-datetime-local-input" class="col-2 col-form-label">Task Owner Comments</label>
+                        <div class="col-3">
+                            <textarea id="txtPocpersonalNote" class="form-control" asp-for="PocpersonalNote" data-val="true" value="@Model.PocpersonalNote" rows="3"></textarea>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <form class="form">
+                    @{
+                        await Html.RenderPartialAsync("_TaskPOCListPartial", Model.TaskPocs);
+                    }
+                </form>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <form class="form">
+                    @{
+                        await Html.RenderPartialAsync("_TaskCommentsListPartial", Model.TaskComments);
+                    }
+                </form>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <form class="form">
+                    @{
+                        await Html.RenderPartialAsync("_TaskFilesPartial", Model.Files);
+                    }
+                </form>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <hr>
+                <div class="form-actions">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="row">
+                                <div class="col-md-offset-3 col-md-9">
+                                    <a href="@Url.Action("TaskIndex", "Home", new { taskOwner = ViewBag.AddedBy})" class="btn btn-inverse" role="button" aria-pressed="true">Back to Home</a>
+                                    <a id="btnSaveTask" href="#" class="btn btn-success" role="button" aria-pressed="true">Save Task</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6"> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#btnSaveTask").click(function() {
+            var requestPOC = new Array();
+            var getDate = new Date().toLocaleDateString;
+
+            if (pocdateAssigned == "")
+                pocdateAssigned = getDate.ToShortDateString();
+            $("tr.itemRecordPOC").each(function() {
+                requestPOC.push({
+                    "PocdateAssigned": $(this).find(".itemPocAssignedDate").text(),
+                    "PocdateClosed": $(this).find(".itemPocClosedDate").val(),
+                    "PocdateDue": $(this).find(".itemPocDueDate").val(),
+                    "PoctaskId": "@Model.ID",
+                    "ParentUsername": "@Model.Pocsusername",
+                    "Pocusername": $(this).find(".itemPocUsername").text(),
+                    "Id": $(this).find(".itemID").text()
+                });
+            });
+            console.log(requestPOC);
+            //alert(requestPOC);
+            $.ajax({
+                type: "POST",
+                url: "/Home/CreatePOC",
+                data: JSON.stringify(requestPOC),
+                dataType: "json",
+                contentType: 'application/json; charset=utf-8',
+                success: function(result) {
+                    console.log(result);
+                   // alert("Successfully Save!");
+                       // window.location = '@Url.Action("TaskIndex", "Home", new {taskOwner = ViewBag.AddedBy })';
+                },
+                failed: function (res) {
+                    alert(res);
+                }
+            });
+
+            var pocsusername = $("#txtPocsusername").val();
+            var pocdateDue = $("#txtPocdateDue").val();
+            var pocdateAssigned = $("#txtPocdateAssigned").val();
+            var pocdateClosed = $("#txtPocdateClosed").val();
+            var status = $("#txtStatus").val();
+            var type = $("#txtType").val();
+            var requestor = $("#txtRequestor").val();
+            var subject = $("#txtSubject").val();
+            var description = $("#txtDescription").val();
+            var pocpersonalDate = $("#txtPocpersonalDate").val();
+            var pocpersonalNote = $("#txtPocpersonalNote").val();
+
+            var request = {
+                "Id": "@ViewBag.ID",
+                "Pocsusername": pocsusername,
+                "PocdateDue": pocdateDue,
+                "PocdateAssigned": pocdateAssigned,
+                "PocdateClosed" : pocdateClosed,
+                "Status": status,
+                "Type": type,
+                "Requestor" : requestor,
+                "Subject": subject,
+                "Description" : description,
+                "PocpersonalDate": pocpersonalDate,
+                "PocpersonalNote": pocpersonalNote
+            };
+           // alert("UpdateTask");
+            $.ajax({
+                type: "PUT",
+                url: "/Home/UpdateTask",
+                data: JSON.stringify(request),
+                dataType: "json",
+                contentType: 'application/json; charset=utf-8',
+                success: function (result) {
+                    console.log(result);
+                    alert("Successfully Save!");
+                   // window.location = '@Url.Action("TaskIndex", "Home", new {taskOwner = ViewBag.AddedBy })';
+                     window.location = '@Url.Action("TaskDetail", "Home", new { id = ViewBag.ID, taskOwner = ViewBag.AddedBy })';
+                },
+                failed: function(res) {
+                    alert(res);
+                }
+            });
+        });
+    });
+</script>
